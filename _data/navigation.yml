@@ -2,10 +2,12 @@ main:
   - title: "Events"
     url: https://probabll.github.io/events/
   - title: "Papers"
-    url: /papers/
+    url: https://probabll.github.io/papers/
   - title: "Supervision"
     url: /supervision/
   - title: "Book"
     url: /book/
+  - title: "Jobs"
+    url: https://probabll.github.io/jobs/
   - title: "About"
     url: /about/
