@@ -8,6 +8,6 @@ main:
   - title: "Book"
     url: /book/
   - title: "Jobs"
-    url: https://probabll.github.io/jobs/
+    url: /jobs/
   - title: "About"
     url: /about/
