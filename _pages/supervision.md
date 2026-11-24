@@ -9,10 +9,12 @@ Here you can find links to the PhD and MSc theses I supervised or co-supervised.
 
 # PhD
 
-**Ongoing:** Nicola De Cao, Bryan Eikema, Pedro Ferreira, Joris Baan, Evgenia Ilia.
+**Ongoing:** Joris Baan, Pedro Ferreira, Evgenia Ilia.
 
 **Completed**
 
+* Bryan Eikema. 2026. [A Sampling-Based Exploration of Neural Text Generation Models](https://eprints.illc.uva.nl/id/eprint/2398/)
+* Nicola De Cao. 2024. [Entity Centric Neural Models for Natural Language Processing](https://eprints.illc.uva.nl/id/eprint/2301/)
 * Gonçalo Correia. 2022. [Learnable Sparsity and Weak Supervision for Data-Efficient, Transparent, and Compact Neural Models](https://www.goncalomcorreia.com/phd-thesis.pdf)
 * Jasmijn Bastings. 2020. [A Tale of Two Sequences: Interpretable and Linguistically-Informed Deep Learning for Natural Language Processing](https://pure.uva.nl/ws/files/50791671/Thesis.pdf)
 * Philip Schulz. 2020. [Latent Variable Models for Machine Translation and How to Learn Them](https://pure.uva.nl/ws/files/48239873/Thesis.pdf)
